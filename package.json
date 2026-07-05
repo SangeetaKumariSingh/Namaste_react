@@ -1,0 +1,33 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "React series",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SangeetaKumariSingh/Namaste_react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Sangeeta Kumari Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SangeetaKumariSingh/Namaste_react/issues"
+  },
+  "homepage": "https://github.com/SangeetaKumariSingh/Namaste_react#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "browserslist": [
+    "last 1 chrome version",
+    "last 1 firefox version",
+    "last 1 safari version"
+  ]
+}
