@@ -1,3 +1,26 @@
 * {
-  background-color: rgb(240, 208, 208);
+  /* background-color: rgb(240, 208, 208); */
+  /* align-items: center; */
+  /* justify-content: center; */
+}
+/* .header {
+  height: 400px;
+  width: 400px;
+  background-color: rgb(59, 124, 177);
+  text-align: center;
+  padding: 20px;
+  border-radius: 5px solid black;
+}
+
+.user-icon {
+  flex: 1;
+  text-align: right;
+} */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(59, 124, 177);
+  /* height: 400px; */
+
 }
