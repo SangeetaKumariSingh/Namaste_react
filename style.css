@@ -59,3 +59,8 @@ ul > li {
 .body {
   border: 2px solid black;
 }
+.btn-search {
+  padding: 5px;
+  margin: 5px;
+  align-self: center;
+}
